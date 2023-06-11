@@ -1,3 +1,3 @@
-# ruby-creater-rami
-ruby programming
+# ruby-calendar-from-rami
+ruby programming language
 exaple.ru -- is calendar programming ruby !!!!
