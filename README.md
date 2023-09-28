@@ -1,3 +1,3 @@
-# ruby-calendar-from-rami
-ruby programming language
-exaple.ru -- calendar ruby language !!!!
+# Calendar written Ruby programming language 
+by rami 
+Im beginer programmer :-) !!!
